@@ -1,0 +1,2091 @@
+[
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },{
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  },
+  {
+    "question": "Name something people do on a sunny day.",
+    "answers": {
+        "Go to the beach": 35,
+        "Have a picnic": 25,
+        "Play sports": 15,
+        "Go for a walk": 10,
+        "Gardening": 8,
+        "Ride a bike": 7
+    }
+  },
+  {
+      "question": "Name a popular pet.",
+      "answers": {
+          "Dog": 45,
+          "Cat": 30,
+          "Fish": 10,
+          "Bird": 8,
+          "Hamster": 4,
+          "Rabbit": 3
+      }
+  },
+  {
+      "question": "Name something you find in a breakfast buffet.",
+      "answers": {
+          "Eggs": 30,
+          "Bacon": 25,
+          "Pancakes": 20,
+          "Fruit": 10,
+          "Cereal": 8,
+          "Pastries": 7
+      }
+  },
+  {
+      "question": "Name a reason someone might wake up at 2 in the morning.",
+      "answers": {
+          "Bathroom": 35,
+          "Baby crying": 25,
+          "Bad dream": 15,
+          "Loud noise": 10,
+          "Work": 8,
+          "Thirsty": 7
+      }
+  },
+  {
+      "question": "Name a popular holiday activity.",
+      "answers": {
+          "Opening gifts": 40,
+          "Eating a big meal": 30,
+          "Decorating": 15,
+          "Singing songs": 8,
+          "Watching movies": 5,
+          "Playing games": 2
+      }
+  },
+  {
+      "question": "Name something people are afraid of.",
+      "answers": {
+          "Spiders": 30,
+          "Heights": 25,
+          "Snakes": 20,
+          "Darkness": 15,
+          "Flying": 5,
+          "Clowns": 5
+      }
+  },
+  {
+      "question": "Name a fruit people put in a smoothie.",
+      "answers": {
+          "Banana": 35,
+          "Strawberry": 30,
+          "Blueberry": 15,
+          "Mango": 10,
+          "Apple": 5,
+          "Pineapple": 5
+      }
+  },
+  {
+      "question": "Name something people do to relax.",
+      "answers": {
+          "Read a book": 30,
+          "Take a bath": 25,
+          "Watch TV": 20,
+          "Listen to music": 15,
+          "Meditate": 5,
+          "Go for a walk": 5
+      }
+  },
+  {
+      "question": "Name a common item found in a handbag.",
+      "answers": {
+          "Wallet": 30,
+          "Keys": 25,
+          "Lipstick": 20,
+          "Cell phone": 15,
+          "Sunglasses": 5,
+          "Hand sanitizer": 5
+      }
+  },
+  {
+      "question": "Name a popular board game.",
+      "answers": {
+          "Monopoly": 35,
+          "Chess": 25,
+          "Scrabble": 15,
+          "Risk": 10,
+          "Clue": 8,
+          "Catan": 7
+      }
+  }
+]
